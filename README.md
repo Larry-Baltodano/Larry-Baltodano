@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Larry-Baltodano/Larry-Baltodano/blob/main/Fondo%20github%20personal.png" alt="Banner" width="100%">
+</p>
+
+
 # 💫 About Me:
 Soy desarrollador Backend en formación, con experiencia en Java y el framework Spring Boot. Especializado en el desarrollo de APIs REST, seguridad con Spring Security y JWT, y conexión a bases de datos como PostgreSQL y MySQL. Capacidad de liderazgo demostrada como coordinador de proyectos académicos y hackáthones. Comprometido con la mejora continua, siguiendo principios de código limpio y en constante aprendizaje de herramientas modernas como microservicios y contenedores Docker
 
